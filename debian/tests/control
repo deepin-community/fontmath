@@ -1,0 +1,3 @@
+Test-Command: cd /tmp; pytest-3 --pyargs fontMath.test
+Depends: python3-all, python3-fontmath, python3-pytest
+Features: test-name=autodep8-python3
