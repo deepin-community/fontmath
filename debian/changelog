@@ -1,3 +1,19 @@
+fontmath (0.9.2-1) UNRELEASED; urgency=medium
+
+  * New upstream version 0.9.2
+  * debian/control:
+    - Bump Standards-Version to 4.6.1; No other changes are needed.
+    - Update dependencies
+
+ -- Yao Wei (魏銘廷) <mwei@debian.org>  Sun, 29 May 2022 13:08:55 +0800
+
+fontmath (0.9.1-1) unstable; urgency=medium
+
+  * New upstream version 0.9.1
+  * debian/control: Update dependencies
+
+ -- Yao Wei (魏銘廷) <mwei@debian.org>  Wed, 13 Apr 2022 23:11:47 +0800
+
 fontmath (0.8.1-1) unstable; urgency=medium
 
   * New upstream version 0.8.1
